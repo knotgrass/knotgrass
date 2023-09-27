@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently an AI engineer
+
+![svg](profile-3d-contrib/profile-gitblock.svg)
+
 
 <!--
 **knotgrass/knotgrass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
