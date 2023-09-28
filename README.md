@@ -1,7 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently an AI engineer
+- 😄 Pronouns: He / him
 
-![svg](profile-3d-contrib/profile-gitblock.svg)
+![svg](profile-3d-contrib/profile-night-green.svg)
 
 
 <!--
