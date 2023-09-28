@@ -3,7 +3,7 @@
 - 📫 How to reach me: @knotgrass
 - 😄 Pronouns: He / him
 
-![svg](profile-3d-contrib/profile-night-green.svg)
+![svg](profile-3d-contrib/profile-night-rainbow.svg)
 
 
 <!--
